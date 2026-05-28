@@ -1,0 +1,281 @@
+{
+  "main": {
+    "id": "54c9fea293227ee2",
+    "type": "split",
+    "children": [
+      {
+        "id": "0093e62f55289efb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db60dc04721161c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "javaSE/面向对象/就近原则和this.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "就近原则和this"
+            }
+          },
+          {
+            "id": "838f798dd2d9e2db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "javaSE/面向对象/访问权限修饰符（Access Modifiers）和构造方法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "访问权限修饰符（Access Modifiers）和构造方法"
+            }
+          },
+          {
+            "id": "4c4f5f50732af4ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "javaSE/面向对象/java对象内存.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "java对象内存"
+            }
+          },
+          {
+            "id": "0e136d64801d4f40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "javaSE/面向对象/就近原则和this.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "就近原则和this"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9b26a7fe17fdce88",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3607def3f1d5817",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4668425beaebd3d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "1c7e3152ef0387fd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "606e2221e1d3f175",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d789ed1c8aeb3c44",
+    "type": "split",
+    "children": [
+      {
+        "id": "82a5e26a3c10b132",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ad17a86426fd1b5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "javaSE/面向对象/就近原则和this.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "就近原则和this 的反向链接列表"
+            }
+          },
+          {
+            "id": "9c885ca7ef23a85d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "未命名.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "未命名 的出链列表"
+            }
+          },
+          {
+            "id": "ef28345023027e52",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "3ad6290596eb886c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "209cecf6054f7856",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "未命名.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "未命名 的大纲"
+            }
+          },
+          {
+            "id": "ea3bccb1786bd60c",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {},
+              "icon": "lines-of-text",
+              "title": "Quiet Outline"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "838f798dd2d9e2db",
+  "lastOpenFiles": [
+    "javaSE/面向对象/就近原则和this.md",
+    "javaSE/面向对象/java对象内存.md",
+    "javaSE/面向对象/JavaBean.md",
+    "javaSE/面向对象/引用数据类型.md",
+    "javaSE/面向对象/访问权限修饰符（Access Modifiers）和构造方法.md",
+    "1.java",
+    "1.py",
+    "学习方法/系统学习路线.md",
+    "Pasted image 20260524175745.png",
+    "图片/Pasted image 20260524175745.png",
+    "图片/Pasted image 20260524175700.png",
+    "图片/Pasted image 20260524175243.png",
+    "图片/Pasted image 20260524175201.png",
+    "图片/Pasted image 20260524174927.png",
+    "图片/Pasted image 20260524174909.png",
+    "图片/Pasted image 20260524174734.png",
+    "图片/Pasted image 20260524174511.png",
+    "图片/Pasted image 20260524174302.png",
+    "图片",
+    "学习方法/雯wwww的学习方法.md",
+    "学习方法/javaSE 学习规划.md",
+    "其他/python/jupyter/# Jupyter Notebook 安装在 D 盘，默认打开 C 盘？修改默认文件夹地址教程.md",
+    "其他",
+    "其他/python/jupyter/jupyter的使用.md",
+    "其他/AI/skill/minerU.md",
+    "其他/AI/claude code终端下载.md",
+    "其他/AI/skill",
+    "其他/python/基本语法/二维数组初始化陷阱.md",
+    "javaSE/面向对象",
+    "javaSE",
+    "其他/python/基本语法",
+    "2026-05-19.md",
+    "欢迎.md",
+    "未命名.canvas",
+    "未命名.base",
+    "未命名 3.canvas",
+    "未命名 2.canvas",
+    "未命名 1.canvas",
+    "其他/AI"
+  ]
+}
