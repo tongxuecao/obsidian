@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "0093e62f55289efb",
+        "id": "d554505e3d9e5bd4",
         "type": "tabs",
         "children": [
           {
-            "id": "db60dc04721161c4",
+            "id": "28685493bfe266fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javaSE/面向对象/就近原则和this.md",
+                "file": "javaSE/面向对象/三大特性/继承（Inheritance）/继承基本语法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "就近原则和this"
-            }
-          },
-          {
-            "id": "838f798dd2d9e2db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "javaSE/面向对象/访问权限修饰符（Access Modifiers）和构造方法.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "访问权限修饰符（Access Modifiers）和构造方法"
-            }
-          },
-          {
-            "id": "4c4f5f50732af4ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "javaSE/面向对象/java对象内存.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "java对象内存"
-            }
-          },
-          {
-            "id": "0e136d64801d4f40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "javaSE/面向对象/就近原则和this.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "就近原则和this"
+              "title": "继承基本语法"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -236,46 +193,57 @@
       "bases:新建数据库": false
     }
   },
-  "active": "838f798dd2d9e2db",
+  "active": "28685493bfe266fa",
   "lastOpenFiles": [
-    "javaSE/面向对象/就近原则和this.md",
-    "javaSE/面向对象/java对象内存.md",
-    "javaSE/面向对象/JavaBean.md",
-    "javaSE/面向对象/引用数据类型.md",
-    "javaSE/面向对象/访问权限修饰符（Access Modifiers）和构造方法.md",
-    "1.java",
-    "1.py",
-    "学习方法/系统学习路线.md",
-    "Pasted image 20260524175745.png",
-    "图片/Pasted image 20260524175745.png",
-    "图片/Pasted image 20260524175700.png",
-    "图片/Pasted image 20260524175243.png",
-    "图片/Pasted image 20260524175201.png",
-    "图片/Pasted image 20260524174927.png",
-    "图片/Pasted image 20260524174909.png",
-    "图片/Pasted image 20260524174734.png",
-    "图片/Pasted image 20260524174511.png",
-    "图片/Pasted image 20260524174302.png",
-    "图片",
-    "学习方法/雯wwww的学习方法.md",
-    "学习方法/javaSE 学习规划.md",
-    "其他/python/jupyter/# Jupyter Notebook 安装在 D 盘，默认打开 C 盘？修改默认文件夹地址教程.md",
-    "其他",
-    "其他/python/jupyter/jupyter的使用.md",
-    "其他/AI/skill/minerU.md",
-    "其他/AI/claude code终端下载.md",
-    "其他/AI/skill",
-    "其他/python/基本语法/二维数组初始化陷阱.md",
-    "javaSE/面向对象",
-    "javaSE",
-    "其他/python/基本语法",
-    "2026-05-19.md",
-    "欢迎.md",
+    "git/git常用命令.md",
+    "javaSE/面向对象/三大特性/继承（Inheritance）/继承基本语法.md",
+    "javaSE/面向对象/类与内存模型/java对象内存.md",
+    "git",
+    "javaSE/面向对象/类与内存模型/JavaBean.md",
+    "javaSE/面向对象/核心关键字/static.md",
+    "javaSE/面向对象/类与内存模型/image/Pasted image 20260623210621.png",
+    "javaSE/面向对象/核心关键字/就近原则和this.md",
+    "javaSE/面向对象/核心关键字/image/Pasted image 20260624161603.png",
+    "javaSE/面向对象/核心关键字/image",
+    "javaSE/面向对象/类与内存模型/访问权限修饰符（Access Modifiers）和构造方法.md",
+    "其他/IDEA/快捷键.md",
+    "javaSE/基本语法/JVM 用来存储和操作局部数据的底层机制。.md",
+    "javaSE/基本语法/java基本语法.md",
+    "Redis/基础/认识noSQL.md",
+    "未命名.md",
     "未命名.canvas",
-    "未命名.base",
-    "未命名 3.canvas",
-    "未命名 2.canvas",
+    "2026-06-21.md",
     "未命名 1.canvas",
-    "其他/AI"
+    "javaSE/面向对象/类与内存模型/image",
+    "javaSE/面向对象/类与内存模型/image/Pasted image 20260623205958.png",
+    "Redis/基础/image/Pasted image 20260619211903.png",
+    "软件工程/作业三.md",
+    "MySQL/在powershell中使用mysql指令（下载的社区版压缩包）.md",
+    "其他/python/pandas/所遇问题.md",
+    "其他/python/pandas/为什么使用DataFrame多列数据时需要利用[[]]嵌套.md",
+    "其他/python/pandas/常用函数.md",
+    "其他/python/jupyter/jupyter notebook代码补全功能开启.md",
+    "其他/python/jupyter/Jupyter Notebook 安装在 D 盘，默认打开 C 盘？修改默认文件夹地址教程.md",
+    "其他/python/jupyter/jupyter的使用.md",
+    "其他/python/pandas/panda分组函数.md",
+    "其他/python/pandas",
+    "其他/python/基本语法/二维数组初始化陷阱.md",
+    "学习方法/系统学习路线.md",
+    "javaSE/易错点/未命名.md",
+    "javaSE/易错点",
+    "javaSE/集合框架/ArrayList.md",
+    "其他/IDEA",
+    "javaSE/核心 API 与常用类 (Core API)/image/Pasted image 20260607210909.png",
+    "javaSE/核心 API 与常用类 (Core API)/image",
+    "其他/python/jupyter/image/Pasted image 20260614155707.png",
+    "其他/python/jupyter/image/Pasted image 20260614160251.png",
+    "其他/python/jupyter/image/Pasted image 20260614160050.png",
+    "javaSE/核心 API 与常用类 (Core API)/image/Pasted image 20260607212750.png",
+    "其他/python/jupyter/image/Pasted image 20260614155932.png",
+    "Redis/基础/image",
+    "其他/python/jupyter/image",
+    "Redis/基础",
+    "未命名 3.canvas",
+    "未命名 2.canvas"
   ]
 }

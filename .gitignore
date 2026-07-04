@@ -1,0 +1,16 @@
+# Obsidian — workspace state (changes constantly, user-specific)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian — plugin state (auto-generated, changes frequently)
+.obsidian/plugins/*/markdown-states.json
+
+# Obsidian — trash
+.trash/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+desktop.ini
