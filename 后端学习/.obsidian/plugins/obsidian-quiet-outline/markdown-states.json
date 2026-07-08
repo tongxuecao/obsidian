@@ -80,12 +80,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 3,
-        "ch": 2
+        "line": 0,
+        "ch": 0
       },
       "to": {
-        "line": 3,
-        "ch": 2
+        "line": 0,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -384,7 +384,7 @@
     ]
   },
   "javaSE/面向对象/类与内存模型/java对象内存.md": {
-    "scroll": 201.27019920472333,
+    "scroll": 167.57491373725668,
     "cursor": {
       "from": {
         "line": 171,
@@ -396,8 +396,11 @@
       }
     },
     "expandedKeys": [
-      "item-2-1",
-      "item-2-7"
+      "item-4-12",
+      "item-3-10",
+      "item-4-15",
+      "item-4-22",
+      "item-4-25"
     ]
   },
   "javaSE/面向对象/类与内存模型/JavaBean.md": {
@@ -883,7 +886,7 @@
     "expandedKeys": []
   },
   "javaSE/面向对象/类与内存模型/访问权限修饰符（Access Modifiers）和构造方法.md": {
-    "scroll": 8.996590191338706,
+    "scroll": 2.1348914494805453,
     "cursor": {
       "from": {
         "line": 0,
@@ -945,7 +948,7 @@
     ]
   },
   "javaSE/面向对象/核心关键字/就近原则和this.md": {
-    "scroll": 26.575776738903333,
+    "scroll": 34.60156109580984,
     "cursor": {
       "from": {
         "line": 65,
@@ -975,18 +978,22 @@
     "expandedKeys": []
   },
   "javaSE/面向对象/核心关键字/static.md": {
-    "scroll": 0.9359190652172,
+    "scroll": 26.78111667435432,
     "cursor": {
       "from": {
-        "line": 10,
-        "ch": 29
+        "line": 30,
+        "ch": 52
       },
       "to": {
-        "line": 10,
-        "ch": 29
+        "line": 30,
+        "ch": 52
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-3-0",
+      "item-4-2",
+      "item-4-5"
+    ]
   },
   "git/未命名.md": {
     "scroll": 0,
@@ -1036,7 +1043,7 @@
     "expandedKeys": []
   },
   "javaSE/面向对象/三大特性/继承（Inheritance）/继承基本语法.md": {
-    "scroll": 46.68315861577173,
+    "scroll": 66.30202817810573,
     "cursor": {
       "from": {
         "line": 73,
@@ -1048,5 +1055,177 @@
       }
     },
     "expandedKeys": []
+  },
+  "javaSE/面向对象/三大特性/封装（Encapsulation）/封装.md": {
+    "scroll": 4.0853108328225725,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "javaSE/面向对象/三大特性/多态（Polymorphism）/未命名.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "javaSE/面向对象/三大特性/多态（Polymorphism）/多态基本语法.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 16
+      },
+      "to": {
+        "line": 0,
+        "ch": 16
+      }
+    },
+    "expandedKeys": [
+      "item-2-0"
+    ]
+  },
+  "javaSE/面向对象/三大特性/封装.md": {
+    "scroll": 15.294762095637239,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "javaSE/面向对象/三大特性/继承基本语法.md": {
+    "scroll": 5.0588562830744515,
+    "cursor": {
+      "from": {
+        "line": 128,
+        "ch": 2
+      },
+      "to": {
+        "line": 128,
+        "ch": 2
+      }
+    },
+    "expandedKeys": [
+      "item-2-0",
+      "item-2-4",
+      "item-2-7",
+      "item-3-11"
+    ]
+  },
+  "javaSE/面向对象/三大特性/多态基本语法.md": {
+    "scroll": 115.82016315665177,
+    "cursor": {
+      "from": {
+        "line": 125,
+        "ch": 30
+      },
+      "to": {
+        "line": 125,
+        "ch": 30
+      }
+    },
+    "expandedKeys": [
+      "item-3-0",
+      "item-3-4",
+      "item-4-6",
+      "item-2-8"
+    ]
+  },
+  "javaSE/面向对象/三大特性/封装基本语法.md": {
+    "scroll": 25.986705339106702,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "javaSE/面向对象/核心关键字/super.md": {
+    "scroll": 0.7824103248650579,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 36
+      },
+      "to": {
+        "line": 0,
+        "ch": 36
+      }
+    },
+    "expandedKeys": [
+      "item-4-6"
+    ]
+  },
+  "javaSE/面向对象/核心关键字/final.md": {
+    "scroll": 11.98166736880234,
+    "cursor": {
+      "from": {
+        "line": 2,
+        "ch": 20
+      },
+      "to": {
+        "line": 2,
+        "ch": 20
+      }
+    },
+    "expandedKeys": [
+      "item-3-0"
+    ]
+  },
+  "javaSE/面向对象/抽象方法和抽象类.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "javaSE/面向对象/抽象类和抽象方法.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 15,
+        "ch": 41
+      },
+      "to": {
+        "line": 15,
+        "ch": 41
+      }
+    },
+    "expandedKeys": [
+      "item-4-1"
+    ]
   }
 }

@@ -8,6 +8,9 @@
 # Obsidian — trash
 .trash/
 
+# Claude Code
+.claude/
+
 # OS generated files
 .DS_Store
 .DS_Store?
